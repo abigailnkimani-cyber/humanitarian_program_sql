@@ -29,7 +29,7 @@ The script is a single file, run top to bottom:
 1. Install MySQL (or your preferred SQL engine) and open MySQL Workbench, DBeaver or the command line.
 2. Clone the repository:
    ```
-   git clone https://github.com/your-username/humanitarian-programme-sql.git
+   git clone https://github.com/abigailnkimani-cyber/humanitarian-programme-sql.git
    ```
 3. Run the script on a fresh database:
    ```
